@@ -2,7 +2,7 @@ body{
     background-color:#f1dac4 ;
     color:#0d0c1d;
     font-family: "Rubik Mono One", monospace;
-overflow: hidden;
+
 justify-content: center;
 }
 
@@ -16,3 +16,7 @@ div{
     overflow-x:hidden;
 }
  
+img{
+    height:100%;
+    width:100%;
+}
