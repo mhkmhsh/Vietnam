@@ -10,21 +10,21 @@ img1.src = 'images/vietnam1.jpg'
 }
 function strategies(){
     title.innerHTML = 'Political and Military Strategies'
-    img1.innerHTML = 'images/vietnam4.jpg'
+    img1.src = 'images/vietnam4.jpg'
 }
 function opinion(){
     title.innerHTML = 'Home Front and Public Opinion'
-    img1.innerHTML = ''
+    img1.src = 'images/vietnam7.jpeg'
 }
 function resistance(){
     title.innerHTML = 'Protests and Resistance'
-    img1.innerHTML = ''
+    img1.src = 'images/vietnam8.jpg'
 }
 function aftermath(){
     title.innerHTML = 'Global Impact and Aftermath'
-    img1.innerHTML = ''
+    img1.src = 'images/vietnam10.jpg'
 }
 function learned(){
     title.innerHTML = 'Global Impact and Aftermath'
-    img1.innerHTML = ''
+    img1.src = 'images/vietnam12.jpg'
 }
