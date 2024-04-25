@@ -1,29 +1,24 @@
-document.addEventListener("DOMContentLoaded", function() {
-    const buttons = document.querySelectorAll("#carouselExampleFade button");
-    const infoText = document.getElementById("info");
-    const title = document.getElementById("title");
+const title = document.getElementById('header')
+const img1 = document.getElementById('image1')
+const img2 = document.getElementById('image2')
+const text1 = document.getElementById('para1')
+const text2 = document.getElementById('para2')
 
-    buttons.forEach(function(button, index) {
-        button.addEventListener("click", function() {
-            // Update text and images based on button click
-            switch(index) {
-                case 0:
-                    infoText.textContent = "Information for slide 1"; // Update text
-                    title.textContent = "The Vietnam War - Slide 1"; // Update title
-                    break;
-                case 1:
-                    infoText.textContent = "Information for slide 2"; // Update text
-                    title.textContent = "The Vietnam War - Slide 2"; // Update title
-                    break;
-                // Add more cases for additional buttons
-                default:
-                    // Default case
-                    break;
-            }
+function overview(){
 
-            // Optional: Update images dynamically
-            // You can change the src attribute of the images to display different images
-            // Example: document.querySelector('.carousel-item.active img').src = 'new_image.jpg';
-        });
-    });
-});
+}
+function strategies(){
+    
+}
+function opinion(){
+    
+}
+function resistance(){
+    
+}
+function aftermath(){
+    
+}
+function learned(){
+    
+}

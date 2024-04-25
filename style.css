@@ -6,6 +6,13 @@ overflow: hidden;
 justify-content: center;
 }
 
+div{
+    justify-content: center;
+}
 
   
+#body{
+    overflow-y: scroll;
+    overflow-x:hidden;
+}
  
