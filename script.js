@@ -19,13 +19,23 @@ function overview() {
 function strategies() {
     title.innerHTML = 'Political and Military Strategies'
     img1.src = 'images/vietnam4.jpg'
-    text1.innerHTML = `<b>Guerrilla warfare tactics:</b>The Guerrilla warfare tactics were implemented in order to overthrow a political system through the use of war, violence, and terrorism. In addition, these smaller forces would battle against much larger forces and would strike early before the opponents would appear. The methods used in order to complete these attacks also included non-combat bombings, weapon attacks, hit and runs, and massive strikes. 
-    `
+    text1.innerHTML = `<b>Guerrilla warfare tactics:</b>The Guerrilla warfare tactics were implemented in order to 
+    overthrow a political system through the use of war, violence, and terrorism. In addition, these smaller forces 
+    would battle against much larger forces and would strike early before the opponents would appear. The methods used 
+    in order to complete these attacks also included non-combat bombings, weapon attacks, hit and runs, 
+    and massive strikes.`
 }
 function opinion() {
     title.innerHTML = 'Home Front and Public Opinion'
     img1.src = 'images/vietnam7.jpeg'
-    text1.innerHTML = ``
+    text1.innerHTML = `<b>Home Front and Public Opinion:</b> Due to the massive spread of propaganda, 
+    media coverage would display false news and would affect public perspective on the ideas and realities 
+    of the war. Each country believed theirs was doing the right thing and followed what the media displayed 
+    to the public. In addition, some citizens began to feel betrayed by their nations due to the negative sources 
+    they would receive and lies from the government. While there was a variety of negative public opinions, the 
+    horrors and devastation soldiers would face while in battle caught the attention of American citizens and they 
+    would come together in order to support their troops and provide them with any care they needed.
+    `
 }
 function resistance() {
     title.innerHTML = 'Protests and Resistance'
