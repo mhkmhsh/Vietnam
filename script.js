@@ -14,7 +14,20 @@ function overview() {
        and The Domino Theory. Due to the administration of John F. Kennedy, the President at the time,
         the United States involvement became more and more drastic as troops were forced to participate in
          battle and acquire supplies and weaponry.`
-    
+    text2.innerHTML = `<b>Major Battles and Turning Points: </b>There were 11 major battles that took place during the Vietnam War that left 
+    an impact on the United States and involvement of their troops. These battles are Battle of Dien Bien Phu,
+     the Gulf of Tonkin Incident, the Battle of Ia Drang Valley, the Battle of Khe Sanh, the Tet Offensive, 
+     the Battle of Hue, the Cambodia Incursion, the Lam Son 719, the Easter Offensive, the Linebacker Operations,
+     and the Fall of Saigon. Each one of these battles put the lives of American troops on the line, leading to a 
+     very high number of casualties. In addition, the troops were fighting in unfamiliar locations and caused a 
+     copious amount of destruction.
+     <br><br><br>
+     <b>The Role of International Players: </b> There were a number of nations that provided military and economic 
+     assistance to Vietnam and the United States during the war. The Soviet Union and China provided allegiance to 
+     North Vietnam while the United States supported South Vietnam. Aside from the conflict surrounding the war, 
+     average citizens of these nations formed their own groups to support their beliefs and opinions along with their 
+     neighbors.`
+     img2.src='images/vietnam2.jpg'
 }
 function strategies() {
     title.innerHTML = 'Political and Military Strategies'
@@ -24,6 +37,8 @@ function strategies() {
     would battle against much larger forces and would strike early before the opponents would appear. The methods used 
     in order to complete these attacks also included non-combat bombings, weapon attacks, hit and runs, 
     and massive strikes.`
+    text2.innerHTML = ``
+    img2.src='images/vietnam5.jpg'
 }
 function opinion() {
     title.innerHTML = 'Home Front and Public Opinion'
@@ -36,6 +51,7 @@ function opinion() {
     horrors and devastation soldiers would face while in battle caught the attention of American citizens and they 
     would come together in order to support their troops and provide them with any care they needed.
     `
+    text2.innerHTML = ``
 }
 function resistance() {
     title.innerHTML = 'Protests and Resistance'
@@ -49,6 +65,7 @@ Due to the massive spread of propaganda, media coverage would display
        the horrors and devastation soldiers would face while in battle caught the attention of American citizens
         and they would come together in order to support their troops and provide them with any care they needed.
     `
+    text2.innerHTML = ``
 }
 function aftermath() {
     title.innerHTML = 'Global Impact and Aftermath'
@@ -59,6 +76,7 @@ function aftermath() {
       bombings were incredibly elaborate while deadly. The number of deaths of not only civilians
        and soldiers caused citizens to flee their home country in order to protect their families 
        and escape persecution.`
+       text2.innerHTML = ``
 }
 function learned() {
     title.innerHTML = 'Reflections and Lessons Learned'
@@ -73,4 +91,5 @@ function learned() {
       extremely overwhelming. Families were unable to pay for repairs and the government struggled to pay 
       to restore the land and civilian homes. 
     `
+    text2.innerHTML = ``
 }
