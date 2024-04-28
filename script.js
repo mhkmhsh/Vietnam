@@ -4,6 +4,8 @@ const img2 = document.getElementById('image2')
 const text1 = document.getElementById('para1')
 const text2 = document.getElementById('para2')
 
+
+
 function overview() {
     title.innerHTML = 'Overview of the Vietnam War'
     img1.src = 'images/vietnam1.jpg'
@@ -28,7 +30,8 @@ function overview() {
      average citizens of these nations formed their own groups to support their beliefs and opinions along with their 
      neighbors.`
      img2.src='images/vietnam2.jpg'
-}
+
+    }
 function strategies() {
     title.innerHTML = 'Political and Military Strategies'
     img1.src = 'images/vietnam4.jpg'
@@ -156,3 +159,4 @@ function learned() {
       `
     img2.src='images/vietnam13.png'
 }
+

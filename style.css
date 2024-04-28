@@ -1,5 +1,5 @@
 body{
-    background-color:#f1dac4 ;
+    background-color:#709255;
     color:#0d0c1d;
     font-family: "Rubik Mono One", monospace;
 
@@ -23,4 +23,8 @@ img{
 
 p{
     font-family: "Libre Franklin", sans-serif;   
+}
+iframe{
+   
+    width:100%;
 }
