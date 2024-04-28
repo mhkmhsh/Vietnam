@@ -59,7 +59,7 @@ function opinion() {
     horrors and devastation soldiers would face while in battle caught the attention of American citizens and they 
     would come together in order to support their troops and provide them with any care they needed.
     `
-    text2.innerHTML = `The war draft became a very widely discussed topic during the Vietnam War. 
+    text2.innerHTML = `<b>Media coverage and its impact on public perception : </b>The war draft became a very widely discussed topic during the Vietnam War. 
     The number of men who were pooled to be drafted reached about 2 million, the largest amount during
      the time and caused a wide deal of concern for Americans. While some believed it was unfair for 
      young men to risk their lives, others believed it was an honor to serve their country and protect 
@@ -67,8 +67,8 @@ function opinion() {
      of casualties from each battle. While today the ability for a citizen to fight and serve their country 
      is optional, the bravery of the American soldiers during the Vietnam War was never forgotten and is still
       remembered to this day. The draft showed the strengths of each man who served and the irony of how the men 
-      who were given no free will to choose to fight were fighting for their countries freedom. 
-      img2.src='images/vietnam6.jpg'   `
+      who were given no free will to choose to fight were fighting for their countries freedom. `
+      img2.src='images/vietnam6.jpg'   
 }
 function resistance() {
     title.innerHTML = 'Protests and Resistance'
@@ -82,7 +82,25 @@ Due to the massive spread of propaganda, media coverage would display
        the horrors and devastation soldiers would face while in battle caught the attention of American citizens
         and they would come together in order to support their troops and provide them with any care they needed.
     `
-    text2.innerHTML = ``
+    text2.innerHTML = `
+    <b>Prominent figures in the anti-war movement:</b>The most well known prominent figure who spoke out about their thoughts on anti-war
+     and the Vietnam war specifically was Martin Luther King Jr. He delivered a speech 
+     called “Beyond Vietnam” that expressed how unjust the war was, sending out innocent people 
+     to fight for their country when there was no way to know the outcome and if they would be making 
+     a difference or remembered. MLK informed the world about how the war was not making any positive 
+     changes for our society and only further influencing racial injustice and economic issues for the United States.  
+ <br>
+ <br>
+ <b>Artistic expressions of protest (music, literature, etc.) :</b>
+ Art is the most visual and audible expression of human feelings of vulnerability and anguish during the war.
+  Political cartoons, paintings, and songs were created in order to display the emotions of everyday citizens 
+  and their point of view on what the war has done to society. A few well known depictions of art are the songs 
+  “Give Peace a Chance” by John Lennon and the painting “the famous brothers in arms” by Dan Nance. Lennon’s song
+   is famous amongst anti war activists and the painting clearly shows the suffering of soldiers and now the men 
+   have each others backs. 
+
+     `
+     img2.src='images/vietnam9.jpg'   
 }
 function aftermath() {
     title.innerHTML = 'Global Impact and Aftermath'
@@ -93,7 +111,25 @@ function aftermath() {
       bombings were incredibly elaborate while deadly. The number of deaths of not only civilians
        and soldiers caused citizens to flee their home country in order to protect their families 
        and escape persecution.`
-       text2.innerHTML = ``
+       text2.innerHTML = `<b>The Paris Peace Accords and the fall of Saigon:</b>The Paris Peace Accords was an agreement formed between North Vietnam,
+        South Vietnam, and the United States. The accords stated that the Vietnamese nations would 
+        hold back from attacking and the United States would do the same thing and retreat back home.
+         The Fall of Saigon occurred when North Vietnam captured Saigon and the south surrendered. Due 
+         to the capture from the North, President Ford called for an immediate evacuation for the United 
+         States troops back home.
+         <br>
+         <br>
+         <b>Long-term effects on veterans and civilians: </b>
+         The outcome and grueling time during the Vietnam War caused long term effects on veterans 
+         and civilians that were both positive and negative. Veterans that fought in the war were honored 
+         and respected for the rest of their lives for the support they provided to their nation. These 
+         veterans continued to do volunteer work and provide small acts of service to the military. On the other hand,
+          not many veterans were lucky to make it out of the war without any life altering injuries, or stay alive at all.
+           Millions of families lost their loved ones and not only were there lots of physical injuries, 
+           but a majority of troops experienced mental decline as well. This included post traumatic stress 
+           disorder and depression.
+`
+       img2.src='images/vietnam11.jpg'
 }
 function learned() {
     title.innerHTML = 'Reflections and Lessons Learned'
@@ -108,5 +144,15 @@ function learned() {
       extremely overwhelming. Families were unable to pay for repairs and the government struggled to pay 
       to restore the land and civilian homes. 
     `
-    text2.innerHTML = ``
+    text2.innerHTML = `<b>The evolution of military tactics and international relations 
+     :</b>The evolution of military tactics and international relations greatly increased 
+    in size and magnitude during the war. Soldiers became more creative and meticulous about their strategies
+     for attack and weapons used to attack their enemies. Natural chemicals and weapons were not the only kind of 
+     military tactics, as treaties were included as well. The Guilleira war tactics and treaties , such as the 
+     Containment Policy, signed by Vietnamese and US governments were used to the advantage of their own troops
+      and nations. International relations worsened for some and benefited other nations. South Vietnam had the
+       protection of the Soviet aunuim due to their similar communist beliefs and the United States supported 
+       themselves and continued to battle against Vietnam.
+      `
+    img2.src='images/vietnam13.png'
 }
