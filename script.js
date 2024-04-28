@@ -37,7 +37,15 @@ function strategies() {
     would battle against much larger forces and would strike early before the opponents would appear. The methods used 
     in order to complete these attacks also included non-combat bombings, weapon attacks, hit and runs, 
     and massive strikes.`
-    text2.innerHTML = ``
+    text2.innerHTML = `<b>The use of chemical weapons like Agent Orange: </b>Aside from bombing and killing humans, the chemical, Agent Orange, was used in order
+    to destroy plants, shrubs, and trees. By doing so, the enemy was unable to eat these crops or harvest any food.
+     The toxics coming from these plants were proven lethal to the army and was another strain keeping them from survival.
+     <br>
+     <br>
+     <b>The Domino Theory and Containment Policy</b>The Domino Theory stated that if one country or nation is failing or falling apart, 
+     then all surrounding countries would meet the same fate. This idea applied specifically to communism 
+     because Northern Vietnam followed communist ideals during the war. On the other hand, the Containment 
+     Policy stated that the United States would do everything they could to prevent the spread of communism. `
     img2.src='images/vietnam5.jpg'
 }
 function opinion() {
@@ -51,7 +59,16 @@ function opinion() {
     horrors and devastation soldiers would face while in battle caught the attention of American citizens and they 
     would come together in order to support their troops and provide them with any care they needed.
     `
-    text2.innerHTML = ``
+    text2.innerHTML = `The war draft became a very widely discussed topic during the Vietnam War. 
+    The number of men who were pooled to be drafted reached about 2 million, the largest amount during
+     the time and caused a wide deal of concern for Americans. While some believed it was unfair for 
+     young men to risk their lives, others believed it was an honor to serve their country and protect 
+     their home. At the time it was rare for any man to be excused from the draft and there were thousands 
+     of casualties from each battle. While today the ability for a citizen to fight and serve their country 
+     is optional, the bravery of the American soldiers during the Vietnam War was never forgotten and is still
+      remembered to this day. The draft showed the strengths of each man who served and the irony of how the men 
+      who were given no free will to choose to fight were fighting for their countries freedom. 
+      img2.src='images/vietnam6.jpg'   `
 }
 function resistance() {
     title.innerHTML = 'Protests and Resistance'
